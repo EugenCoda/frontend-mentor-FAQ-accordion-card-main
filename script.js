@@ -20,7 +20,6 @@ for (let i = 0; i < acc.length; i++) {
     var arrow = this.childNodes[1].childNodes[1];
 
     /* Reverse arrow when panel is displayed */
-    console.log(arrow);
     arrow.classList.toggle("reverse-arrow");
   });
 }
