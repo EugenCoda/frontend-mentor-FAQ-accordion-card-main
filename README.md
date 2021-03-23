@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository] (https://github.com/EugenCoda/frontend-mentor-FAQ-accordion-card-main)
-- Live Site URL: [FAQ Accordion Card](https://profile-card-component-frontend-challenge.netlify.app/)
+- Solution URL: [GitHub Repository](https://github.com/EugenCoda/frontend-mentor-FAQ-accordion-card-main)
+- Live Site URL: [FAQ Accordion Card](https://faq-accordion-card-frontend-challenge.netlify.app/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- JavaScript
 
 ### Useful resources
 
